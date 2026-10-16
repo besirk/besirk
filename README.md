@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Besir Kurtishi
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning cs
-- 💞️ I’m looking to collaborate on project or find a intern position
+
 - 📫 How to reach me ...
 - Instagram : besirkurtishi_
 
